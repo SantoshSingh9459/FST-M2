@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: amitamish/complex_client
+          image: santosh9459/complex_client
           ports:
             - containerPort: 3000
           resources:
