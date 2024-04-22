@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: worker
-          image: amitamish/complex_worker
+          image: santosh9459/complex_worker
           env:
             - name: REDIS_HOST
               value: redis-cluster-ip-service
