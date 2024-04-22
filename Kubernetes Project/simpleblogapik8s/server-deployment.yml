@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: amitamish/simple_blog_api
+          image: santosh9459/simple_blog_api
           ports:
             - containerPort: 5000
           env:
