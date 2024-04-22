@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: amitamish/complex_api
+          image: santosh9459/complex_api
           ports:
             - containerPort: 5000
           env:
