@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1710909130885,981,Transaction Controller,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,19430,275,1,1,null,0,280,917
+1710909130984,959,HTTP Request,200,OK,Thread Group 1-1,text,true,,12996,134,1,1,https://v1.training-support.net/selenium,945,0,917
+1710909132124,22,HTTP Request,200,OK,Thread Group 1-1,text,true,,6434,141,1,1,https://v1.training-support.net/selenium/tables,21,0,0
